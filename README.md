@@ -52,8 +52,8 @@ I specialize in **Django**, **FastAPI**, and **PostgreSQL**.
   - You can test the application by visiting [WizGuide Demo](http://167.71.34.6:8001)
   
   📂 **Links**:
-  - [Visit the GitHub Repository](https://github.com/yourusername/WizGuide)
-  - [Documentation and Setup Instructions](https://github.com/yourusername/WizGuide/blob/main/README.md)
+  - [Visit the GitHub Repository](https://github.com/AlexDCI/WizGuide-fn.git)
+  - [Documentation and Setup Instructions](https://github.com/AlexDCI/WizGuide-fn.git)
 
 ### 🔧 [Activehood](https://github.com/l0Ui53/active_hood/blob/main/README.md)  
 A social network for athletes to connect and collaborate.  
