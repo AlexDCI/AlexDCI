@@ -17,7 +17,43 @@ I specialize in **Django**, **FastAPI**, and **PostgreSQL**.
 
 ---
 
-## 📂 Highlighted Projects  
+## 📂 Highlighted Projects 
+
+📜 **WizGuide** - AI-powered Text Translation App</summary>
+  
+  **WizGuide** is a web application for translating text between languages using OpenAI's AI technology. Users can input text, select source and target languages, and get translated text with the additional option to generate comments and explanations about the translation. All translations are saved in the chat history.
+
+  🔑 **Key Features**:
+  - Translate text from one language to another
+  - Generate comments and explanations for translations
+  - Chat history with the option to delete chats
+  - Multi-language interface support
+  - Speech-to-text translation in the second part of the app using **Google Speech-to-Text** (via **FastAPI**)
+  - **Django built-in authentication** for secure user login and registration
+  
+  🚀 **Technologies**:
+  - **Django** (Backend for the text translation part, with built-in authentication)
+  - **FastAPI** (Backend for speech-to-text functionality)
+  - **PostgreSQL** (Database for storing translations and chat history)
+  - **Google Cloud Speech-to-Text API** (For converting speech to text)
+  - **OpenAI GPT-3.5** (Translation and Commenting API)
+  - **HTML/CSS/JavaScript** (Frontend)
+  - **Bootstrap** (For styling)
+  
+  🏗️ **Architecture**:
+  - The application will have a **microservices architecture**, where the text translation and voice translation functionalities are handled by separate services (Django for text and FastAPI for speech-to-text).
+  
+  🌍 **Interface available in multiple languages**:
+  - English
+  - Russian
+  - And more, depending on user selection
+  
+  🌐 **Test the Application**:
+  - You can test the application by visiting [WizGuide Demo](http://167.71.34.6:8001)
+  
+  📂 **Links**:
+  - [Visit the GitHub Repository](https://github.com/yourusername/WizGuide)
+  - [Documentation and Setup Instructions](https://github.com/yourusername/WizGuide/blob/main/README.md)
 
 ### 🔧 [Activehood](https://github.com/l0Ui53/active_hood/blob/main/README.md)  
 A social network for athletes to connect and collaborate.  
